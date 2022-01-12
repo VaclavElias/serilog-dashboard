@@ -1,0 +1,57 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "font-awesome@6.0.0-beta3",
+      "destination": "wwwroot/lib/font-awesome/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "chart.js@3.7.0",
+      "destination": "wwwroot/lib/chart.js/",
+      "files": [
+        "auto/auto.esm.d.ts",
+        "auto/auto.esm.js",
+        "auto/auto.js",
+        "auto/package.json",
+        "dist/chunks/helpers.segment.js",
+        "dist/chart.esm.js",
+        "dist/chart.js",
+        "dist/chart.min.js",
+        "dist/helpers.esm.js",
+        "helpers/helpers.esm.d.ts",
+        "helpers/helpers.esm.js",
+        "helpers/helpers.js",
+        "helpers/package.json",
+        "types/adapters.d.ts",
+        "types/animation.d.ts",
+        "types/basic.d.ts",
+        "types/color.d.ts",
+        "types/element.d.ts",
+        "types/geometric.d.ts",
+        "types/index.esm.d.ts",
+        "types/layout.d.ts",
+        "types/utils.d.ts",
+        "types/helpers/helpers.canvas.d.ts",
+        "types/helpers/helpers.collection.d.ts",
+        "types/helpers/helpers.color.d.ts",
+        "types/helpers/helpers.core.d.ts",
+        "types/helpers/helpers.curve.d.ts",
+        "types/helpers/helpers.dom.d.ts",
+        "types/helpers/helpers.easing.d.ts",
+        "types/helpers/helpers.extras.d.ts",
+        "types/helpers/helpers.interpolation.d.ts",
+        "types/helpers/helpers.intl.d.ts",
+        "types/helpers/helpers.math.d.ts",
+        "types/helpers/helpers.options.d.ts",
+        "types/helpers/helpers.rtl.d.ts",
+        "types/helpers/helpers.segment.d.ts",
+        "types/helpers/index.d.ts",
+        "LICENSE.md",
+        "package.json",
+        "README.md"
+      ]
+    }
+  ]
+}
